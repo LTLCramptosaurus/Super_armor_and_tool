@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"HNH",
+		"NRN",
+		"HNH"
+	],
+	"key": {
+		"H": "minecraft:honey_bottle",
+		"N": "minecraft:nether_star",
+		"R": "minecraft:netherite_helmet"
+	},
+	"result": {
+		"id": "minecraft:knowledge_book",
+		"count": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "///",
+        "DHD",
+        " D "
+    ],
+    "key": {
+        "/": "minecraft:blaze_rod",
+        "D": "minecraft:diamond",
+        "H": "minecraft:honey_bottle"
+    },
+    "result": {
+        "id": "minecraft:trident",
+        "count": 1
+    }
+}

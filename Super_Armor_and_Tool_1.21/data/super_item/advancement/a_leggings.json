@@ -1,0 +1,13 @@
+{
+    "rewards": {
+      "function": "super_item:f_leggings"
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "super_item:leggings"
+        }
+      }
+    }
+  }

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"HNH",
+		"NSN",
+		"HNH"
+	],
+	"key": {
+		"H": "minecraft:honey_bottle",
+		"N": "minecraft:nether_star",
+		"S": "minecraft:netherite_leggings"
+	},
+	"result": {
+		"id": "minecraft:knowledge_book",
+		"count": 1
+	}
+}

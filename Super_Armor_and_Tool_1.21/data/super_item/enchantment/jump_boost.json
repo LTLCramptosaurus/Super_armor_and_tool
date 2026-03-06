@@ -1,0 +1,24 @@
+{
+	"description": "Jump boost",
+	"supported_items": "minecraft:netherite_boots",
+	"slots": ["feet"],
+	"weight": 1,
+	"anvil_cost": 0,
+	"min_cost": {
+		"base": 0,
+		"per_level_above_first": 0
+	},
+	"max_cost": {
+		"base": 0,
+		"per_level_above_first": 0
+	},
+	"max_level": 1,
+	"effects": {
+		"minecraft:tick": [{
+			"effect": {
+				"type": "minecraft:run_function",
+				"function": "super_item:e_boots"
+			}
+		}]
+	}
+}

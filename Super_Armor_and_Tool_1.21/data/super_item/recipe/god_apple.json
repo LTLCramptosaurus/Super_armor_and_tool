@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+			"minecraft:bread",
+			"minecraft:cake",
+			"minecraft:melon_slice",
+			"minecraft:rabbit_stew",
+			"minecraft:golden_apple",
+			"minecraft:cookie",
+			"minecraft:baked_potato",
+			"minecraft:cooked_beef",
+			"minecraft:pumpkin_pie"
+	],
+	"result": {
+		"id": "minecraft:enchanted_golden_apple",
+		"count": 1
+	}
+}

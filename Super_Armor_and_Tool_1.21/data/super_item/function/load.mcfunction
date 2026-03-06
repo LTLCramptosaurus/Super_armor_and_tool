@@ -1,0 +1,1 @@
+tellraw @a {"text":"Le datapack est installé.","color":"green"}
